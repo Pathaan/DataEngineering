@@ -1,4 +1,6 @@
 # DAY 1 Dimensional Lab
+
+
 -- Create types
 CREATE TYPE season_stats AS (
     season INTEGER,
